@@ -1,1 +1,1 @@
- <script src="https://tryhackme.com/badge/3122253"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Ribbons.png" alt="TryHackMe">
